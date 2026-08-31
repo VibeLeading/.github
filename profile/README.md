@@ -106,7 +106,9 @@ The Vibe Leading methodology is documented in the book by **Jean Machuca**:
 > **_Vibe Leading The AI: The Corporate Race Against Machines_** (ISBN 9798252505008)
 
 - **Website:** [vibeleading.org](https://vibeleading.org)
+- **Author website:** [jeanmachuca.com](https://jeanmachuca.com)
 - **Buy it on Amazon:** [https://a.co/d/04L5YatK](https://a.co/d/04L5YatK)
+- **Support the author on GitHub Sponsors:** [https://github.com/sponsors/jeanmachuca](https://github.com/sponsors/jeanmachuca)
 
 The book is **copyrighted material**. Duplicating, re-selling, or reproducing its text is not
 permitted; please support the author by purchasing a copy.
@@ -126,5 +128,7 @@ book's text.
 ## Credits
 
 - Author & founder: [Jean Machuca](https://github.com/jeanmachuca)
+- Author website: [jeanmachuca.com](https://jeanmachuca.com)
 - Book website: [vibeleading.org](https://vibeleading.org)
 - Amazon: [https://a.co/d/04L5YatK](https://a.co/d/04L5YatK)
+- Support via GitHub Sponsors: [https://github.com/sponsors/jeanmachuca](https://github.com/sponsors/jeanmachuca)
