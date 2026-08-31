@@ -3,12 +3,14 @@
 **Small squads. Real-time telemetry. Direct intent.**
 
 VibeLeading is the open-source home of the **Vibe Leading** methodology — the leadership
-framework described in Jean Machuca's book _Vibe Leading The AI: The Corporate Race
-Against Machines_. The org turns that methodology into practical, installable tooling:
-agent **skills** that teach a Pilot how to lead intelligence, and **MCP servers** that give
-AI agents "hands" in the corporate engine.
+framework described in Jean Machuca's book [_Vibe Leading The AI: The Corporate Race
+Against Machines_](https://vibeleading.org). The org turns that methodology into practical,
+installable tooling: agent **skills** that teach a Pilot how to lead intelligence, and
+**MCP servers** that give AI agents "hands" in the corporate engine.
 
 The race against machines is on. These repositories are the cockpit.
+
+**The book** — [vibeleading.org](https://vibeleading.org) · [Buy on Amazon](https://a.co/d/04L5YatK) · Author: [@jeanmachuca](https://github.com/jeanmachuca)
 
 ---
 
@@ -97,7 +99,32 @@ The race is on. Will you be the fossil, or will you be the Pilot?
 
 ---
 
+## The Book
+
+The Vibe Leading methodology is documented in the book by **Jean Machuca**:
+
+> **_Vibe Leading The AI: The Corporate Race Against Machines_** (ISBN 9798252505008)
+
+- **Website:** [vibeleading.org](https://vibeleading.org)
+- **Buy it on Amazon:** [https://a.co/d/04L5YatK](https://a.co/d/04L5YatK)
+
+The book is **copyrighted material**. Duplicating, re-selling, or reproducing its text is not
+permitted; please support the author by purchasing a copy.
+
+---
+
 ## License
 
-All repositories in this organization are licensed under the **MIT License** unless a
-specific repository states otherwise.
+**Code is MIT.** All agent skills and MCP servers in this organization are open source and
+licensed under the **MIT License** — free to use, modify, and redistribute.
+
+**The book is not.** The methodology's narrative content, the prose, and the illustrations
+of _Vibe Leading The AI_ are © 2026 Jean Machuca and protected by copyright and its ISBN.
+The open-source repositories implement the concepts as tooling; they do not republish the
+book's text.
+
+## Credits
+
+- Author & founder: [Jean Machuca](https://github.com/jeanmachuca)
+- Book website: [vibeleading.org](https://vibeleading.org)
+- Amazon: [https://a.co/d/04L5YatK](https://a.co/d/04L5YatK)
